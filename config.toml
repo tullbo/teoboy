@@ -1,0 +1,18 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Teo Boy"
+theme = "hallo"
+
+[Author]
+    name = "Teo"
+
+[params]
+    [params.colors]
+        background = "#6166ff"
+        foreground = "#edf7ff"
+        hover = "#ffba82"
+
+    #[[params.links]]
+    #    icon = "youtube"
+    #    title = "Youtube"
+    #   url = "https://youtu.be/gxpT2rTyXXg"
