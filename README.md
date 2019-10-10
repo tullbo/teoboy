@@ -1,1 +1,1 @@
-A simple web-site based on Hugo
+A simple website based on Hugo and the Hallo theme

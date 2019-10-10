@@ -12,7 +12,12 @@ theme = "hallo"
         foreground = "#edf7ff"
         hover = "#ffba82"
 
-    #[[params.links]]
-    #    icon = "youtube"
-    #    title = "Youtube"
-    #   url = "https://youtu.be/gxpT2rTyXXg"
+    [[params.links]]
+        icon = "github"
+        title = "GitHub"
+        url = "https://github.com/tullbo/teoboy"
+
+    [[params.links]]
+        icon = "youtube"
+        title = "Youtube"
+        url = "https://youtu.be/gxpT2rTyXXg"
